@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with InternShala Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To Run this Project 
 
-## Available Scripts
+(type in vs code terminal or cmd on the same directory)
+
+# step 1 > npm i
+
+# step 2 > npm start
+
+
 
 In the project directory, you can run:
 
