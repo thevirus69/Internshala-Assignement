@@ -7,8 +7,12 @@ To Run this Project
 # step 1 > npm i
 
 # step 2 > npm start
-![planet](https://user-images.githubusercontent.com/63556497/134729025-cf6cfa23-de87-4e92-b586-6218b9124fa3.png)
 
+Screenshots Of the Assignment:
+
+![Documents 25-09-2021 12_49_30 AM](https://user-images.githubusercontent.com/63556497/134729394-f77e5fae-c49b-4735-a051-533794c73c82.png)
+
+![Assignment - Google Chrome 25-09-2021 12_49_45 AM](https://user-images.githubusercontent.com/63556497/134729419-e80cc490-4a0f-4b95-97b6-f01a848d913d.png)
 
 
 In the project directory, you can run:
