@@ -7,6 +7,7 @@ To Run this Project
 # step 1 > npm i
 
 # step 2 > npm start
+![planet](https://user-images.githubusercontent.com/63556497/134729025-cf6cfa23-de87-4e92-b586-6218b9124fa3.png)
 
 
 
